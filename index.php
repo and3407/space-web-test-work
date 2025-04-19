@@ -6,8 +6,8 @@ use App\Modules\SpaceWebApi\SpaceWebConnector;
 
 require __DIR__ . '/vendor/autoload.php';
 
-$login = 'and3407yan';
-$password = 'PN99BpC2seM*mjZQ';
+$login = '';
+$password = '';
 $domain = 'cwwxzrfiiq2.ru';
 
 $httpConnector = new SpaceWebConnector();
